@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.umeng.umsdk:huawei-umengaccs:1.1.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/huawei-umengaccs-1.1.3.aar/78797f02ae46bc61bd99b10eb7ad9a09/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/huawei-umengaccs-1.1.3.aar/78797f02ae46bc61bd99b10eb7ad9a09/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/huawei-umengaccs/1.1.3/b9b38f6a75e444fff5568f5a65e47a1859639050/huawei-umengaccs-1.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

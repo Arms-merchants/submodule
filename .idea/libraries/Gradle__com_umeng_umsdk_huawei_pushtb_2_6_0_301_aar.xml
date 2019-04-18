@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.umeng.umsdk:huawei-pushtb:2.6.0.301@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/huawei-pushtb-2.6.0.301.aar/97a5ca2a2e4f907a8931c1ab11d9b298/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/huawei-pushtb-2.6.0.301.aar/97a5ca2a2e4f907a8931c1ab11d9b298/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/huawei-pushtb/2.6.0.301/b9b38f6a75e444fff5568f5a65e47a1859639050/huawei-pushtb-2.6.0.301-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

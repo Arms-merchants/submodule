@@ -1,1 +1,3 @@
 include ':app', ':base', ':base_a'
+include ':base_module'
+project(':base_module').projectDir = new File("base_module/base_module")

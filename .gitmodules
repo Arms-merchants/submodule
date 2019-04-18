@@ -1,0 +1,3 @@
+[submodule "base_module"]
+	path = base_module
+	url = http://39.105.134.2/gccp-android-group/base_module.git

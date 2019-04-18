@@ -4,11 +4,13 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import com.base_module.internal.base.BaseMvpActivity;
+import com.base_module.internal.base.BasePresenter;
 import com.billy.cc.core.component.CC;
 import com.example.base_a.TestActivity;
 import com.example.base_a.TestShowActivity;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseMvpActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,5 +26,10 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+    }
+
+    @Override
+    protected BasePresenter getPresenter() {
+        return null;
     }
 }

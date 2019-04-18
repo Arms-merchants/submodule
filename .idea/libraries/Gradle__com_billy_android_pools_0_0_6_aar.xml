@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.billy.android:pools:0.0.6@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pools-0.0.6.aar/8d7d14705b51bf8c17b87eb886b9f61a/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pools-0.0.6.aar/8d7d14705b51bf8c17b87eb886b9f61a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pools-0.0.6.aar/f5caffb05c4071e51582047527048505/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/pools-0.0.6.aar/f5caffb05c4071e51582047527048505/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

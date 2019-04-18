@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
       <module fileurl="file://$PROJECT_DIR$/base_a/base_a.iml" filepath="$PROJECT_DIR$/base_a/base_a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base_module/base_module/base_module.iml" filepath="$PROJECT_DIR$/base_module/base_module/base_module.iml" />
       <module fileurl="file://$PROJECT_DIR$/gitsubmodule.iml" filepath="$PROJECT_DIR$/gitsubmodule.iml" />
     </modules>
   </component>
